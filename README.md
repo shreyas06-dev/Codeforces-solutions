@@ -2,9 +2,10 @@ Codeforces, in Public
 Every Codeforces problem I solve, posted in public — solutions, notes, and the occasional L — organized by rating as I grind toward Expert.
 
 Stats
-Solved: 1
+Solved:  
+Contests attended: 1
 
-Current rating: unrated
+Current rating: 368 (we all gotta start somewhere)
 
 Goal: 1600 Expert
 
